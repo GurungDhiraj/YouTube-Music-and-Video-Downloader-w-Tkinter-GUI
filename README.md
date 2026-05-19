@@ -1,0 +1,1 @@
+This is a YouTube Music and Video downloader that takes a YouTube video URL as an input and downloads the subsequent video either as an MP4 or an MP3 file. The user has control over what format they want to download and can select it through the Tkinter GUI.
